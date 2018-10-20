@@ -1,0 +1,3 @@
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\bin\x86\Release\RawInputSharp.dll
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\obj\x86\Release\RawInputSharp.csprojResolveAssemblyReference.cache
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\obj\x86\Release\RawInputSharp.dll

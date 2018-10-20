@@ -1,0 +1,2 @@
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\bin\x64\Release\RawInputSharp.dll
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\obj\x64\Release\RawInputSharp.dll

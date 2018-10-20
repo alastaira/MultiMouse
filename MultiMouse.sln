@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawInputSharp", "RawInputSharp\RawInputSharp.csproj", "{A409E257-14DA-4B78-B875-1456035481B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawMouseDriver", "RawMouseDriver\RawMouseDriver.csproj", "{8E30F4C9-358D-4919-96E0-D50039D615EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A409E257-14DA-4B78-B875-1456035481B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A409E257-14DA-4B78-B875-1456035481B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A409E257-14DA-4B78-B875-1456035481B8}.Debug|x64.ActiveCfg = Debug|x64
+		{A409E257-14DA-4B78-B875-1456035481B8}.Debug|x64.Build.0 = Debug|x64
+		{A409E257-14DA-4B78-B875-1456035481B8}.Debug|x86.ActiveCfg = Debug|x86
+		{A409E257-14DA-4B78-B875-1456035481B8}.Debug|x86.Build.0 = Debug|x86
+		{A409E257-14DA-4B78-B875-1456035481B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A409E257-14DA-4B78-B875-1456035481B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A409E257-14DA-4B78-B875-1456035481B8}.Release|x64.ActiveCfg = Release|x64
+		{A409E257-14DA-4B78-B875-1456035481B8}.Release|x64.Build.0 = Release|x64
+		{A409E257-14DA-4B78-B875-1456035481B8}.Release|x86.ActiveCfg = Release|x86
+		{A409E257-14DA-4B78-B875-1456035481B8}.Release|x86.Build.0 = Release|x86
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Debug|x64.ActiveCfg = Debug|x64
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Debug|x64.Build.0 = Debug|x64
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Debug|x86.ActiveCfg = Debug|x86
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Debug|x86.Build.0 = Debug|x86
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Release|x64.ActiveCfg = Release|x64
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Release|x64.Build.0 = Release|x64
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Release|x86.ActiveCfg = Release|x86
+		{8E30F4C9-358D-4919-96E0-D50039D615EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

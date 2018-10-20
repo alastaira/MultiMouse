@@ -1,0 +1,9 @@
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\bin\x86\Debug\RawMouseDriver.dll
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\bin\x86\Debug\RawMouseDriver.pdb
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\bin\x86\Debug\RawInputSharp.dll
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\bin\x86\Debug\RawInputSharp.pdb
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\obj\x86\Debug\RawMouseDriver.DriverWindow.resources
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\obj\x86\Debug\RawMouseDriver.RawMouseDriver.resources
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\obj\x86\Debug\RawMouseDriver.csproj.GenerateResource.Cache
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\obj\x86\Debug\RawMouseDriver.dll
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawMouseDriver\obj\x86\Debug\RawMouseDriver.pdb

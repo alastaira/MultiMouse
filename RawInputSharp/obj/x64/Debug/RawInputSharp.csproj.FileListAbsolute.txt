@@ -1,0 +1,4 @@
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\bin\x64\Debug\RawInputSharp.dll
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\bin\x64\Debug\RawInputSharp.pdb
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\obj\x64\Debug\RawInputSharp.dll
+C:\Users\Alastair\Downloads\RawMouseDriver\RawMouseDriver\RawInputSharp\obj\x64\Debug\RawInputSharp.pdb
